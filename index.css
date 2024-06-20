@@ -2,7 +2,7 @@
 /* CSS Document */
 * { margin:0; padding:0}
 
-#wrapper {border:2px solid blue;
+#wrapper {border:2px solid black;
 		  margin:5px;
 		  padding:5px
 }
@@ -10,7 +10,7 @@
 		 margin:5px;
 		 padding:5px;
 		 height:100px;
-		 background-color:#000
+		 background-color:#00ffd
 }
 h1 {font-size:66px;
 	font-weight:bold;
