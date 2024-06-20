@@ -10,7 +10,7 @@
 		 margin:5px;
 		 padding:5px;
 		 height:100px;
-		 background-color:#00ffd
+		 background-color:#yellow
 }
 h1 {font-size:66px;
 	font-weight:bold;
@@ -22,7 +22,7 @@ h1 {font-size:66px;
 #nav {border:1px solid blue;
 	  margin:5px;
 	  padding:5px;
-	  background-color:#000;
+	  background-color:#white;
 	  height:30px;
 }
 #nav a{border:0px solid grey;
